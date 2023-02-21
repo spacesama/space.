@@ -1,0 +1,33 @@
+*{
+	margin: 0%;
+	padding: 0%;
+}
+
+.glowtext{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-size: 55px;
+    font-size: "", sans-serif;
+    color: #fff;
+    text-shadow: 
+    0 0 7px #fff,
+    0 0 10px #fff,
+    0 0 21px #fff,
+    0 0 42px #f09,
+    0 0 82px #f09,
+    0 0 92px #f09,
+    0 0 102px #f09,
+    0 0 151px #f09,
+}
+h1{
+
+}
+.back-video {
+	position: absolute;
+	width: 1920px;
+	right: 0;
+	bottom: 0;
+	z-index: -1;
+}
